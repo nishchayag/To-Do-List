@@ -1,0 +1,15 @@
+#header {
+  text-align: center;
+  font-size: 50px;
+}
+
+#inputBox {
+  position: relative;
+  left: 43vw;
+  font-size: 20px;
+}
+#list {
+  position: relative;
+  left: 43vw;
+  font-size: 20px;
+}
